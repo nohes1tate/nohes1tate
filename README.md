@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 💼 Junior at [College of Software, Beihang University](https://soft.buaa.edu.cn/)
+- ❤️ Interested in ACG
+- 🎮 Try to be a Game Designer
+- 🔭 Learning CV CG and Game Engine
+
 <!--
 **nohes1tate/nohes1tate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohes1tate)](https://github.com/anuraghazra/github-readme-stats)
